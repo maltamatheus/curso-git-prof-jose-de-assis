@@ -1,1 +1,2 @@
 nova alteração na teste
+nova linha no arq2.txt

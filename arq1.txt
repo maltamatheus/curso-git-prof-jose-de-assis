@@ -3,4 +3,4 @@ Alterando a linha 2
 Inserindo linha 3
 Alterando a linha 4 de novo
 Inserindo linha 5
-Inserindo a linha 6
+Alteração linha 6

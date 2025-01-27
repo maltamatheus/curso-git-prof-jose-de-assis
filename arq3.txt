@@ -1,1 +1,2 @@
 Inserindo linha no arq3.txt na branch teste
+Inserindo nova linha para reproduzir a atualização de um único arquivo
